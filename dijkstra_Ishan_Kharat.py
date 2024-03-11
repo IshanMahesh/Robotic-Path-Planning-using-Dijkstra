@@ -1,3 +1,7 @@
+#Ishan Kharat
+#UID: 120427145
+#Email: ishanmk@umd.edu
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
